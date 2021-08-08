@@ -1,0 +1,41 @@
+p {
+  font-family: Lato, "Times New Roman", sans-serif;
+}
+
+img.image {
+  float: left;
+  clear: left;
+  margin-right: 20px;
+  height: 100px;
+}
+
+p.title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+p.year {
+  font-size: 13px;
+}
+
+p.rating {
+  font-size: 12px;
+}
+
+p.rating::before {
+  position: relative;
+  margin-right: 5px;
+  vertical-align: middle;
+  /* Icons made by Pixel Perfect: */
+  /* https://www.flaticon.com/authors/pixel-perfect */
+  content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAWQAAAFkBqp2phgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFTSURBVDiNlZI/S0JhFMZ/50XvvVHklEUEtho15SCBguBUUzQ4C0HfwaEp8Cv4HWpuadDr5NIgUY1BVKhQ0nCJvHRPQxrX8u/Zznmf53l/L+eFCaU1p6g1pzhJI2PN9aUV1H8EBD+SkLzXHqUz46/vnQAOYBP1j+ci0CoRjP0AbPRHLyx+bkoKfzYCYx2FzADreNbhSAJ17X1U0hhdQ1kFjYMkgdgf7TvoPUgHoU0gLUQboq7dBuLj3jilOoZACiDd+b3SJZCCAGjd2gK5REnM6H7GBAeS8ZsGQLK9O74iaZDrGcw3BCYtGb8JoS1Izmshwdl0cj2V3MfToB1eYyB7UwPUpMPtcIAwPQAd0vwG6C0WsBs68xAtIVoCvNA81df+IXiL7vDz90HkHExSsr2yZHtlMEmUi75ygdfo9n+wK2Lq2hWtOvmx8FUnr65d0QbLg9k3QflombXow/oAAAAASUVORK5CYII=");
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 30px;
+}

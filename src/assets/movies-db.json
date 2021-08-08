@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "rating": 7.8
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_UY190_CR0,0,128,190_AL_.jpg",
+    "rating": 7.8
+  },
+  {
+    "title": "The Great Gatsby",
+    "year": 2013,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_UX128_CR0,0,128,190_AL_.jpg",
+    "rating": 7.2
+  },
+  {
+    "title": "The Revenant",
+    "year": 2015,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX128_CR0,0,128,190_AL_.jpg",
+    "rating": 8.0
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY190_CR0,0,128,190_AL_.jpg",
+    "rating": 8.4
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_UY190_CR0,0,128,190_AL_.jpg",
+    "rating": 7.8
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UY190_CR0,0,128,190_AL_.jpg",
+    "rating": 8.2
+  }
+]

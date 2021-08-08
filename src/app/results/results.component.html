@@ -1,0 +1,8 @@
+<ul>
+  <li *ngFor="let movie of movies$ | async">
+    <img class="image" src="{{movie.image}}"/>
+    <p class="title">{{movie.title}}</p>
+    <p class="year">Released: {{movie.year}}</p>
+    <p class="rating">{{movie.rating}}</p>
+  </li>
+</ul>
